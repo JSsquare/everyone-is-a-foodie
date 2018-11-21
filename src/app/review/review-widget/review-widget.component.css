@@ -1,0 +1,19 @@
+.fa {
+    font-size: 30px;
+    cursor: pointer;
+    user-select: none;
+    margin: auto;
+}
+
+.fa-thumbs-down:hover{
+	color:red !important;
+}
+
+.fa:hover {
+  color: green;
+}
+
+.center_form{
+	margin: 0 auto;
+    width:80%;
+}
